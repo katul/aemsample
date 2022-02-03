@@ -1,0 +1,8 @@
+AEM63App/core/servlets/SimpleServlet.class
+AEM63App/core/models/HelloWorldModel.class
+AEM63App/core/package-info.class
+AEM63App/core/schedulers/SimpleScheduledTask.class
+AEM63App/core/listeners/SimpleResourceListener.class
+AEM63App/core/schedulers/SimpleScheduledTask$Config.class
+AEM63App/core/filters/LoggingFilter.class
+AEM63App/core/servlets/ScrapperServlet.class
